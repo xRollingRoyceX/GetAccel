@@ -18,7 +18,8 @@ public class getAccel {
 		/**
 		 * the first class i have ever written :)  the formula i used was:
 		 * a=v^2 - v^2(w/ subscript 0)/2X the formula for a uniformly accelerated motion of
-		 * basically the "throwing motion" from my General Physics textbook. math check out.
+		 * basically the "throwing motion." This is from my General Physics textbook. 
+		 * the math and code both check out.
 		 */	
 	}
 }
