@@ -7,7 +7,7 @@ public class getAccel {
 	public void setVelocity(double velos){
 		velocity = Math.pow(velos, 2.0);
 	}
-	public void setVelocitySubScript(double vel0x){
+	public void setVelocitySubScript0(double vel0x){
 		velocity = Math.pow(vel0x, 2.0);
 	}
 	public void setDistance(double dist){
